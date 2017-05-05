@@ -1,5 +1,5 @@
 /* source: https://github.com/avinoamr/bootstrap-carousel-swipe */
-/* changes from Vladimir Usmanov */
+/* changes from Andris Balins */
 +function ($) {
     'use strict';
 
